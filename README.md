@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=170&section=header&text=Hi%20There!&fontSize=90)
-- 👋 I’m @Teodorpatov
+- 👋 I’m @TeodorPatov
 - 👀 I’m a curious person that loves learning something new every day
 - 🌱 I’m currently learning Web Development with C#
 - 📫 How to reach me teodorpatov2005@gmail.com
