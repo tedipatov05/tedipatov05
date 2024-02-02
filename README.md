@@ -8,7 +8,36 @@
 tedipatov05/tedipatov05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,nodejs,jquery)](https://skillicons.dev)
+<div align="left">
+  
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" />
+  </a>
+  <a href="https://getbootstrap.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="52" height="52" alt="Bootstrap" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" />
+  </a>
+  <a href="https://www.w3schools.com/css/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" />
+  </a>
+  <a href="https://www.arduino.cc/en/Guide" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> 
+  </a> 
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="70" height="65" alt=".NET" />
+  </a>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="65" height="65" alt="MySql" />
+  </a>
+
+</div>  
+
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tedipatov05)](https://github.com/anuraghazra/github-readme-stats)
