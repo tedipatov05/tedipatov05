@@ -9,6 +9,8 @@ tedipatov05/tedipatov05 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,nodejs,jquery)](https://skillicons.dev)
+
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tedipatov05)](https://github.com/anuraghazra/github-readme-stats)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=&fontSize=90)
 
