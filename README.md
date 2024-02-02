@@ -4,10 +4,7 @@
 - 🌱 I’m currently learning Web Development with C#
 - 📫 How to reach me teodorpatov2005@gmail.com
 
-<!---
-tedipatov05/tedipatov05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
 <div align="left">
   
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
@@ -47,7 +44,7 @@ You can click the Preview link to take a look at your changes.
   
 </div>  
 
-
+### Github Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tedipatov05)](https://github.com/anuraghazra/github-readme-stats)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=&fontSize=90)
