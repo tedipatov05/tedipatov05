@@ -20,6 +20,9 @@
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="Node.js" />
   </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=120&color=currentColor" width="65" height="65" alt="Docker" />
+  </a>
 
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="65" height="65" alt="JQuery" />
