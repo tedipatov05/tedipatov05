@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=170&section=header&text=Hi%20There!&fontSize=90)
 - 👋 I’m @TeodorPatov
 - 👀 I’m a curious person that loves learning something new every day
-- 🌱 I’m currently learning Web Development with C#
-- 📫 How to reach me teodorpatov2005@gmail.com
+- 🌱 I’m currently learning C++ OOP
+- 📫 How to reach me teodorpatov4@gmail.com
 
 ## Skills
 <div align="left">
@@ -13,6 +13,9 @@
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="70" height="65" alt=".NET" />
   </a>
+<a href="https://cplusplus.com/" target="_blank" ref="noreferer">
+  <img src="https://icongr.am/devicon/cplusplus-line.svg" width="70" height="65" alt="C++" />
+</a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" />
@@ -26,7 +29,7 @@
 
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="65" height="65" alt="JQuery" />
-  </a>
+  </a >
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" />
   </a>
@@ -39,6 +42,8 @@
   <a href="https://www.arduino.cc/en/Guide" target="_blank" rel="noreferrer"> 
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> 
   </a> 
+
+  
   
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
