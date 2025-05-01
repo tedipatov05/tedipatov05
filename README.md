@@ -14,7 +14,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="70" height="65" alt=".NET" />
   </a>
 <a href="https://cplusplus.com/" target="_blank" ref="noreferer">
-  <img src="https://icongr.am/devicon/cplusplus-line.svg" width="70" height="65" alt="C++" />
+  <img src="https://icongr.am/devicon/cplusplus-plain.svg" width="70" height="65" alt="C++" />
 </a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
