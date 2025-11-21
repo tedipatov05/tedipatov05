@@ -36,9 +36,12 @@
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
-###
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tedipatov05&theme=dark&show_icons=true&locale=en" alt="tedipatov05" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tedipatov05&theme=dark" alt="tedipatov05" /></p>
+### 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=tedipatov05&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tedipatov05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ###
 
