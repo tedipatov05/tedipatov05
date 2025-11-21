@@ -7,6 +7,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="60" alt="c# logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="materialui logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dotnet logo"  />
@@ -35,11 +37,8 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tedipatov05&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=tedipatov05&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=tedipatov05&theme=dark&show_icons=true&locale=en" alt="tedipatov05" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tedipatov05&theme=dark" alt="tedipatov05" /></p>
 
 ###
 
